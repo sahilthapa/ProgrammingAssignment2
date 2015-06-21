@@ -6,6 +6,8 @@
 ##      > x2 <- cacheSolve(x1)
 ##      Output:
 ##      inverse matrix of x. retrieved from cache.  
+## Date 20150621
+
 
 ## This function gets/sets up matrix and its inverse in env 
 ## for caching
